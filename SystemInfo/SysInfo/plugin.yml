@@ -1,0 +1,15 @@
+name: SysInfo
+version: 1.0
+main: me.sysinfo.main.SystemInfo
+description: SystemInfo
+
+permissions:
+    admin.sysinfo:
+        description: Permission for SysInfo
+        default: Op
+
+commands:
+    systeminfo:
+        usage: </command>
+        description: Main cmd
+        
