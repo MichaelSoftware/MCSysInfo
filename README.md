@@ -3,16 +3,21 @@
 **MCSystemInfo** aka: SysInfo is a Spigot Plugin for Minecraft ~~1.14.4~~ 1.20.1 (v2) designed to provide live system performance metrics directly within Minecraft. It offers detailed insights into server CPU usage, RAM allocation, disk space, and TPS (ticks per second), helping server administrators monitor performance efficiently. Future updates will include, a limited task manager to carry out tasks and the ability to access Linux 'screen' tasks. 
 
 ## Changelog:
-v1: Minecraft 1.8 (Launch)
-v1.3: Minecraft 1.13.2 (added support for CentOS 6
-v1.3.1: Minecraft 1.14 (changed GNULinux support to use Debian over CentOS)
-v1.4: (increased support list: CentOS (5, 6 & 7), Debian (7 & 8), Ubuntu (12.04, 14.04 & 16.04), FreeBSD (12 & 13)
-v1.4.1 (final build, adding support for **Minecraft 1.14.4**)
-~~project was depreciated on May 14th 2019~~
+- **v1.0**: Minecraft 1.8 (Launch)
+- **v1.1**: minor bug updates // 1.9 Support (buggy)
+- **v1.1.2**: minor bug updates & adding 1.10 Support
+- **v1.2**: minor bug updates & 1.12 Support
+  
+Major Release: 
+- **v1.3**: Minecraft 1.13.2 (added support for CentOS 6
+- **v1.3.1**: Minecraft 1.14 (changed GNULinux support to use Debian over CentOS)
+- **v1.4**: (increased support list: CentOS (5, 6 & 7), Debian (7 & 8), Ubuntu (12.04, 14.04 & 16.04), FreeBSD (12 & 13)
+- **v1.4.1** (final build, adding support for **Minecraft 1.14.4**)
+## ~~project was depreciated on May 14th 2019~~
 
-SystemInfo 2.0
-v2.0a: (Updated support to Minecraft 1.20.1) // resolved autofill commands 
-v2.1a: // TBD: Reimplementing Task Manager support
+## **SystemInfo 2.0**
+- **v2.0a:** (Updated support to Minecraft 1.20.1) // resolved autofill commands 
+- **v2.1a:** // TBD: Reimplementing Task Manager support
 
 ## Features
 - **Real-Time CPU Usage Monitoring**
