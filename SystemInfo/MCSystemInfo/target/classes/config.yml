@@ -1,0 +1,9 @@
+# MCSysInfo Configuration File
+enable_cpu_info: true
+enable_ram_info: true
+enable_storage_info: true
+enable_uptime_info: true
+
+# Formatting Options
+use_color: true
+show_graphical_bars: true

@@ -1,0 +1,17 @@
+name: HWInfo
+version: '2.0-SNAPSHOT'
+main: org.codelaad.mcSystemInfo.mcSystemInfo
+api-version: '1.20'
+authors: [ CodeLaad ]
+description: Task Manager & System Resource Monitor Plugin for Minecraft
+website: www.michaelwojcikmusic.com
+
+commands:
+  systeminfo:
+    description: View system statistics
+    usage: /systeminfo [cpu|ram|storage]
+    permission: mcsysinfo.use
+permissions:
+  mcsysinfo.use:
+    description: Allows use of the systeminfo command
+    default: op
